@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596984694722",
+    "project_id": "elonmusk-e0e8f",
+    "storage_bucket": "elonmusk-e0e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596984694722:android:b1bc49aaaf93bfa18e385b",
+        "android_client_info": {
+          "package_name": "com.example.space_x_elon_musk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596984694722-29qrn9jh51ue2hcovih1ia3fpoqdn2ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.space_x_elon_musk",
+            "certificate_hash": "672ee4377258b90f4f8ee76b928dfb98cbd02b1a"
+          }
+        },
+        {
+          "client_id": "596984694722-qqgs9o0j4dpea9hc8kqjdbv8ianik8jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdeLUtaXQnmfTkENjNuO4PjGCGmqhF4Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596984694722-qqgs9o0j4dpea9hc8kqjdbv8ianik8jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
